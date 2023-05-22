@@ -1,15 +1,15 @@
 ---
 home: true
-heroText: bitcoingetshorny
-tagline: aigc + web3 + 外包
-actionText: About Us
+# heroText: Zzr
+tagline: web2、web3、server
+# actionText: About Us
 actionLink: /aboutus/
 features:
-- title: power1
-  details: XXXXX
-- title: power2
-  details: XXXXX
-- title: power3
-  details: XXXXX
-footer: MIT Licensed | Copyright © 2023-present bitcoingetshorny
+- title:  web2
+  details: vue、react、nextjs、chart、seo、animate、mobile
+- title: web3
+  details: ether、web3js、wallet、solidity(readonly)
+- title: server
+  details: nestjs、egg
+footer: weichat：zhangzr1168
 ---

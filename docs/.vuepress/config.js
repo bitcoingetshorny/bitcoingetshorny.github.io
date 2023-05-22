@@ -7,7 +7,7 @@ module.exports = {
     }
   },
   // base: '/blog/',
-  title: 'bitcoingetshorny',
+  title: 'zzr',
   description: 'aigc + web3 + 外包',
   head: [],
   extraWatchFiles: [],
